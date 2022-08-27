@@ -121,7 +121,7 @@ body {
 /* Четвертый блок начало*/
 
 .main2 {
-	background:url(images/image%20(1)) no-repeat center;
+	background:url("images/image (1).svg") no-repeat center;
 	background-size: cover;
 	top: 0;
 	left: 0;
